@@ -25,3 +25,5 @@ To analyze retail sales and order transactions using interactive dashboards, ena
 ⚡ KPIs & Cards – Key performance indicators for quick business insights
 
 🔹 Screenshort
+* https://github.com/Yukta080/Retail-Sales-Analytics/blob/main/Screenshot%20.png
+  
